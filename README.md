@@ -29,14 +29,13 @@ Create a search bar connected to the recommendation engine.
 Design movie result pages with dynamic data.
 Link the frontend to the backend.
 Test how the search and recommendations work.
-Extra Resources:
 
+Extra Resources:
 [How to Use Axios in React
 ](https://www.digitalocean.com/community/tutorials/react-axios-react)
 
 ## February (Weeks 7–9)
 Goal:
-
 Add filters, favorites, and sorting options.
 Test and debug the app.
 Make the UI more polished and interactive.
@@ -46,8 +45,8 @@ Add filters and sorting for search results.
 Build a "Save to Favorites" feature.
 Debug and test the main features.
 Make small design tweaks.
-Extra Resources:
 
+Extra Resources:
 [CSS Tricks on Animations
 ](https://css-tricks.com/almanac/properties/a/animation/)
 [Debugging React Apps
@@ -64,8 +63,8 @@ Optimize for mobile with responsive design.
 Create a profile page.
 create a settings page.
 Test performance and fix slow spots.
-Extra Resources:
 
+Extra Resources:
 https://www.w3.org/WAI/ARIA/apg/
 
 ## April (Weeks 13–15)
@@ -97,6 +96,7 @@ Deploy the website and check everything works.
 Share it on LinkedIn, GitHub, and UNC Snap Story.
 Gather feedback and note updates for the future.
 Write a summary of what I learned.
+
 Extra Resources:
 [How to Share Projects on GitHub
 ](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
