@@ -1,5 +1,5 @@
 # 6-Month Action Plan
-##December - Winter Break (Weeks 1–3)
+## December - Winter Break (Weeks 1–3)
 Goal:
 Improve the recommendation algorithm.
 Finalize API integration with TMDb.
