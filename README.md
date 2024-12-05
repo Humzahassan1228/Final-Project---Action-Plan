@@ -4,6 +4,7 @@ Goal:
 Improve the recommendation algorithm.
 Finalize API integration with TMDb.
 Clean up the backend for better connections.
+
 Tasks:
 Adjust the recommendation engine for accuracy.
 Test API calls to confirm that the data's accurate.
@@ -22,8 +23,8 @@ Goal:
 Improve the frontend and connect it to the backend.
 Add search functionality and personalized recommendations.
 Start building pages for browsing and searching movies.
-Tasks:
 
+Tasks:
 Create a search bar connected to the recommendation engine.
 Design movie result pages with dynamic data.
 Link the frontend to the backend.
@@ -39,8 +40,8 @@ Goal:
 Add filters, favorites, and sorting options.
 Test and debug the app.
 Make the UI more polished and interactive.
-Tasks:
 
+Tasks:
 Add filters and sorting for search results.
 Build a "Save to Favorites" feature.
 Debug and test the main features.
